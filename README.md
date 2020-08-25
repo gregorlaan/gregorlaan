@@ -22,6 +22,8 @@ I'm Gregor Laan, a Full Stack Developer from Estonia.
 
 ◦ Bootstrap 4
 
+## Latest Projects
+
 <a href="https://github.com/gregorlaan/laravel-poll">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorlaan&repo=laravel-poll&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
